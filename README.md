@@ -1,1 +1,1 @@
-#BS4 Template with gulp file and SASS
+#BS4 Photo sharing with gulp file and SASS
